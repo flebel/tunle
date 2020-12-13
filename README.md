@@ -23,7 +23,7 @@ docker run -d \
   --cap-add SETGID \
   --cap-add NET_ADMIN \
   --cap-add NET_RAW \
-  retenet/tunleV
+  retenet/tunle
 ```
 
 Wireguard Currently only supported with predefined config
