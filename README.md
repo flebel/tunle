@@ -26,7 +26,7 @@ docker run -d \
   retenet/tunle
 ```
 
-Wireguard Currently only supported with predefined config
+Wireguard is currently only supported with a predefined config
 ```bash
 docker run -d \
 
